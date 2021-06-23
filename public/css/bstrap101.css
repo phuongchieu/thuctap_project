@@ -2633,14 +2633,14 @@
   
   .btn-warning {
     color: #ffffff;
-    background-color: #888888;
-    border-color: #888888;
+    background-color: #ebb30e;
+    border-color: #f7bc0c;
   }
   
   .btn-warning:hover {
     color: #ffffff;
-    background-color: #535353;
-    border-color: #646464;
+    background-color: #daaf2f;
+    border-color: #daaf2f;
   }
   
   .btn-warning:focus, .btn-warning.focus {

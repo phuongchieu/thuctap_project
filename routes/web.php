@@ -22,6 +22,8 @@ Route::get('/', function () {
 
 Route::resource('/donvi','DonviController');
 
+Route::resource('/nguoidung','NguoidungController');
+
 Route::resource('/chucvu','chucvuController');
 
 Route::resource('/doimatkhau','DoimatkhauController');

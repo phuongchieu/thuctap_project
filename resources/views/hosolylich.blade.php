@@ -4,10 +4,7 @@
 		<div class="donvi"><span class="donvi">Danh sách hồ sơ lý lịch</span>
 		<span class="donvibt">
 		<button type="button" class="btn btn-primary">Thêm</button>
-		<button type="button" class="btn btn-secondary">Xuất Excel</button>
-		<button type="button" class="btn btn-danger">Nhập dữ liệu</button>
-		<button type="button" class="btn btn-info">Quản lý</button>
-		<button type="button" class="btn btn-warning">Báo cáo</button>
+		
 		</span>
 		</div>
 		<div class="donvict">
@@ -35,6 +32,37 @@
 				<th>Nơi sinh</th>
 				<th>Nghề nghiệp</th>
 				<th>Địa chỉ </th>
+				<th>Tác vụ </th>
+			</tr>	
+			<tr>
+				<td>
+					
+				</td>
+				<td>
+					
+				</td>
+				<td>
+					
+				</td>
+				<td>
+					
+				</td>
+				<td>
+					
+				</td>
+				<td>
+					
+				</td>	
+				<td>
+					
+				</td>
+				<td>
+					
+				</td>
+				<td>
+					<button type="button" class="btn btn-warning">Sửa</button>		
+					<button type="button" class="btn btn-danger">Xóa</button>
+				</td>
 			</tr>
 
 		</table>

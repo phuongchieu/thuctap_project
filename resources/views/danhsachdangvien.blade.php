@@ -5,6 +5,7 @@
 	<span class="donvibt">
 		<button type="button" class="btn btn-primary">Thêm</button>
 		<button type="button" class="btn btn-danger">Thêm nhiều</button>
+		<button type="button" class="btn btn-secondary">Xuất Excel</button>
 	</span>
 	</div>
 	<div class="donvict">
@@ -37,6 +38,26 @@
 		 	<th>Tôn giáo</th>
 		 	<th>Hộ khẩu thường trú</th>
 		 	<th>Trình độ</th>
+			 <th>Tác vụ</th>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>
+				<button type="button" class="btn btn-warning">Sửa</button>		
+				<button type="button" class="btn btn-danger">Xóa</button>
+			</td>
 		</tr>
 
 	</table>

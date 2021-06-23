@@ -14,7 +14,7 @@ class NguoidungController extends Controller
      */
     public function index()
     {
-        //
+        return view('nguoidung');
     }
 
     /**

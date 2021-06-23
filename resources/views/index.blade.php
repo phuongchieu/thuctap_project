@@ -38,7 +38,8 @@
 		@yield('danhsachdangvien')
 		@yield('hosolylich')
 		@yield('view_doimatkhau')
-		@yield('view_trangchu')
+		{{-- @yield('view_trangchu') --}}
+		@yield('nguoidung')
 </Div>
 
 </div>

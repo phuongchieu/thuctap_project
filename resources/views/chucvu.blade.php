@@ -3,11 +3,7 @@
 	<div class=""> 
 		<div class="donvi"><span class="donvi">Chức vụ Đảng viên</span>
 		<span class="donvibt">
-		<button type="button" class="btn btn-primary">Thêm</button>
-		<button type="button" class="btn btn-secondary">Xuất Excel</button>
-		<button type="button" class="btn btn-danger">Nhập dữ liệu</button>
-		<button type="button" class="btn btn-info">Quản lý</button>
-		<button type="button" class="btn btn-warning">Báo cáo</button>
+			<button type="button" class="btn btn-primary">Thêm</button>
 		</span>
 		</div>
 		<div class="donvict">
